@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ReliSalazar/ReliSalazar/main/banner.png "Banner")](https://relisalazar.github.io/portfolio/)
+[![Header](https://raw.githubusercontent.com/ReliSalazar/ReliSalazar/main/banner.jpeg "Banner")](https://relisalazar.github.io/portfolio/)
 
 # Hello, my friends! 👋
 
