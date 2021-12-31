@@ -10,6 +10,7 @@ Apart from coding, I also write music, I do some ilustrations and sometimes I wr
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=81559B)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=81559B)
 ![](https://img.shields.io/badge/Editor-nvim-informational?style=flat&logo=vim&logoColor=white&color=81559B)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=81559B)
 
