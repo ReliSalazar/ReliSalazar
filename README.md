@@ -31,11 +31,11 @@ Apart from coding, I also write music, I do some ilustrations and sometimes I wr
 </a>
 
 <a href="https://github.com/ReliSalazar/portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReliSalazar&repo=template-windrunner&title_color=ffffff&text_color=cccccc&icon_color=E15D74&bg_color=222222" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReliSalazar&repo=portfolio-react&title_color=ffffff&text_color=cccccc&icon_color=E15D74&bg_color=222222" />
 </a>
 
 <a href="https://github.com/ReliSalazar/CloneGram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReliSalazar&repo=template-lightweaver&title_color=ffffff&text_color=cccccc&icon_color=E15D74&bg_color=222222" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReliSalazar&repo=CloneGram&title_color=ffffff&text_color=cccccc&icon_color=E15D74&bg_color=222222" />
 </a>
 
 <!-- links to your social media accounts -->
